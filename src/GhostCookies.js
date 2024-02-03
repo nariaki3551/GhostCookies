@@ -10,7 +10,7 @@
             window.autoPlayerDelay = 200
         
             // Set autoClicker to true
-            window.autoClickerEnabled = true;
+            window.autoClickerEnabled = false;
             window.autoClickerDelay = 10;
         
             // Set auto click shimmers to true
