@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GhostGlitch/GhostCookies.git"
+    "url": "git+https://github.com/nariaki3551/GhostCookies.git"
   },
   "author": "GhostGlitch",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/GhostGlitch/GhostCookies/issues"
+    "url": "https://github.com/nariaki3551/GhostCookies/issues"
   },
-  "homepage": "https://github.com/GhostGlitch/GhostCookies#readme",
+  "homepage": "https://github.com/nariaki3551/GhostCookies#readme",
   "dependencies": {
     "jquery": "^3.6.0"
   },
